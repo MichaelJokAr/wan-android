@@ -1,2 +1,2 @@
-include ':app', ':base', ':user', ':article'
+include ':app', ':base', ':user', ':article', ':common'
 rootProject.name='wan-android'
