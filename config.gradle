@@ -1,0 +1,11 @@
+ext {
+    var = [
+            compileSdkVersion  : 29,
+            minSdkVersion      : 15,
+            targetSdkVersion   : 29,
+            buildToolsVersion  : "29.0.2",
+            sourceCompatibility: 1.8,
+            targetCompatibility: 1.8
+
+    ]
+}
